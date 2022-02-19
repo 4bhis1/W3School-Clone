@@ -1,0 +1,35 @@
+.main1-input{
+    width: 400px;
+}
+
+#code_editor-photo{
+    width: 400px;
+}
+
+.code_editor{
+    padding: 10px;
+}
+
+#Videos-new{
+    display: none;
+}
+
+.nav_right{
+    display: none;
+}
+
+#w3schools-image, #web_templates-image{
+    width: 400px;
+}
+
+.footer_head{
+    display: none;
+}
+
+@media screen and (max-width:600px) {
+    
+    .main_code-code-panel{
+        width: 3    00px;
+    }
+
+}
